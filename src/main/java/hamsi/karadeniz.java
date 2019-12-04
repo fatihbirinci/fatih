@@ -17,7 +17,14 @@ public class karadeniz {
         System.out.println("istavritler nereyedu");
         
         
-        private String name = "meryemmmmm";
+     String name = "meryemmmmm";
+
+        System.out.println("when are you coming ");
+
+        karadeniz obj = new karadeniz();
+
+        obj.name = "fatih";
+
 
 
     }
