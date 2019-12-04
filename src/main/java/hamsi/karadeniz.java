@@ -15,6 +15,9 @@ public class karadeniz {
    System.out.println( "hamsiler buraya");
 
         System.out.println("istavritler nereyedu");
+        
+        
+        private String name = "meryemmmmm";
 
 
     }
